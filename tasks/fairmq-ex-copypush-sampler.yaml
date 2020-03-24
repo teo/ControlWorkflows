@@ -10,6 +10,7 @@ bind:
   sndBufSize: 1000
   rcvBufSize: 1000
   rateLogging: 0
+  addressing: ipc
 properties:
   severity: trace
   color: false
